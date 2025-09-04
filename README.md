@@ -64,9 +64,6 @@ I am currently diving deep into Machine Learning and Artificial Intelligence, ex
 My vision is to bridge multi-cloud architectures with AI-powered solutions, enabling enterprises to innovate faster, stay secure, and scale globally.
 
 📌 Let’s Connect
-<img width="1012" height="939" alt="image" src="https://github.com/user-attachments/assets/d14b833f-46ff-493c-9425-fef8817bfd2d" /> ak.kamalideen@outlook.com
-
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6d01e831-35c2-4c4d-a1f4-c02194fc44f2" /> +233241123970
-
-
+Email : ak.kamalideen@outlook.com & ceo@upsolutech.com
+Mobile: +233241123970
 I use this space to share projects, tutorials, and modern cloud solutions that bring together Azure, AWS, Google Cloud, and AI/ML. If you’re interested in multi-cloud strategies, automation, or intelligent applications, you’ll feel right at home here.
