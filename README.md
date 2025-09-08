@@ -8,8 +8,6 @@ AWS Certified: Solutions Architect – Associate, SysOps Administrator – Assoc
 
 (In Progress) Expanding into Machine Learning & AI, applying cloud-native AI/ML tools to build modern, intelligent business solutions.
 
-amazonwebservices logo  circleci logo  kubernetes logo  docker logo  googlecloud logo  azure logo  bash logo  linux logo  python logo  nginx logo  jenkins logo  terraform logo  argocd logo  prometheus logo  grafana logo  ansible logo  bitbucket logo  centos logo  canva logo  confluence logo  gitlab logo  jira logo  redhat logo  tomcat logo  ubuntu logo
-
 🌐 Cloud Expertise
 
 🔹 Microsoft Azure
