@@ -8,6 +8,8 @@ AWS Certified: Solutions Architect – Associate, SysOps Administrator – Assoc
 
 (In Progress) Expanding into Machine Learning & AI, applying cloud-native AI/ML tools to build modern, intelligent business solutions.
 
+<img width="2560" height="1585" alt="image" src="https://github.com/user-attachments/assets/a7a37a62-f22b-43e2-9deb-a95ab720792b" />
+
 🌐 Cloud Expertise
 
 🔹 Microsoft Azure
