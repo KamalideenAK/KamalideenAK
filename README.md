@@ -32,7 +32,14 @@ Experienced in leveraging the Microsoft ecosystem for collaboration, security, a
 
 ⚡ Microsoft Intune & Endpoint Manager
 
-Security & Compliance (Defender, Purview)
+Security & Compliance : 
+
+⚡ Threat Protection ( Microsoft 365 Defender for office, Microsoft 365 Defender endpoint Microsoft Defender for Cloud)
+⚡ Information Protection (Purview / Microsoft Information Protection, Office 365 Data Loss Protection (DLP)
+⚡ Prevention, Microsoft Defender for Cloud Apps, Office 365 Advanced Security Management)
+⚡ Identity and Access Management (Azure Active Directory)
+⚡ Device Control (Microsoft Microsoft Intune & Endpoint Manager)
+⚡ Security Management (Microsoft Defender XDR, Office 365 Compliance Centre, and Microsoft Sentinel).
 
 🔹 Amazon Web Services (AWS)
 
